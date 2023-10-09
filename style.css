@@ -1,3 +1,22 @@
 body {
+    display: flex;
+    flex-direction: column;
+}
 
+.first-section {
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 32px;
+    padding: 0;
+}
+
+.header-links {
+    display: flex;
+    list-style-type: none;
+    gap: 8px;
 }
