@@ -7,6 +7,22 @@ body {
     background-color: #1f2937;
 }
 
+.logo {
+    font-size: 28px;
+    color: #f9faf8;
+}
+
+.text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .header {
     display: flex;
     justify-content: space-evenly;
@@ -29,6 +45,18 @@ body {
     gap: 8px;
 }
 
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
 a {
     text-decoration: none;
+    color: #e5e7eb;
 }
