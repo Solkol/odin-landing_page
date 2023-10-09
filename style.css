@@ -45,6 +45,11 @@ body {
     gap: 8px;
 }
 
+img {
+    max-width: 30%;
+    max-height: 30%;
+}
+
 .content {
     display: flex;
     flex-direction: column;
