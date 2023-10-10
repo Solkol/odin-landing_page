@@ -102,6 +102,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #e5e7eb;
 }
 
 .testimonial {
