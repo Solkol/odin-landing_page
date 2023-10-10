@@ -96,3 +96,15 @@ a {
 .info {
     max-width: 200px;
 }
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonial {
+    text-align: center;
+    max-width: 500px;
+}
