@@ -124,4 +124,7 @@ a {
 
 .last {
     text-align: center;
+    color: #f9faf8;
+    font-size: 12px;
+    padding: 24px;
 }
