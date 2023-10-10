@@ -122,6 +122,20 @@ a {
     text-align: right;
 }
 
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call {
+    background-color: #3882f6;
+    width: 600px;
+    border-radius: 6px;
+    padding: 32px;
+    margin: 12px;
+}
+
 .last {
     text-align: center;
     color: #f9faf8;
