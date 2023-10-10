@@ -130,13 +130,21 @@ a {
 
 .call {
     background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 12px;
     width: 600px;
     border-radius: 6px;
-    padding: 10px 32px;
-    margin: 12px;
+    padding: 24px 32px;
+    margin: 52px;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
+    gap: 72px;
+}
+
+.call-bold {
+    font-size: 18px;
+    font-weight: 600;
 }
 
 .last {
