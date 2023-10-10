@@ -62,6 +62,8 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 6px;
+    padding: 4px 18px;
+    margin: 8px 0;
 }
 
 a {
