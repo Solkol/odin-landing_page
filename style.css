@@ -84,13 +84,14 @@ a {
     font-weight: 700;
     padding: 32px;
     color: #1f2937;
+    margin-bottom: 12px;
 }
 
 .container {
     display: flex;
     justify-content: center;
     gap: 12px;
-    padding-bottom: 52px;
+    padding-bottom: 12px;
 }
 
 .info {
@@ -103,6 +104,7 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #e5e7eb;
+    padding: 20px;
 }
 
 .testimonial {
